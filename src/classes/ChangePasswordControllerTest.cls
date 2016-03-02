@@ -8,7 +8,12 @@
         controller.oldPassword = '123456';
         controller.newPassword = 'qwerty1'; 
         controller.verifyNewPassword = 'qwerty1';                
-        
+        //comentario merge github
+        //segundo comentario
+        //segundo comentario
+        //segundo comentario
+        //hola
+        // hola como estás?
         System.assertEquals(controller.changePassword(),null);                           
     }    
 }

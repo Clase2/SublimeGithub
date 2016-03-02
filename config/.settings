@@ -1,0 +1,19 @@
+{
+    "username": "josestebanhg@gmail.com", 
+    "environment": "production", 
+    "project_name": "Developer 02032016", 
+    "workspace": "C:\\Users\\USU-RTD\\Desktop\\ProyectosSublime", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "9BX1WNUU22FYZNFMV0SKKQ63BNCD0S1Q", 
+    "metadata_container": "1dco0000000FdanAAC", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}

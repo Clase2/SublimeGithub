@@ -1,1 +1,4 @@
+#compiled#
+##########
 *.log
+.local_store

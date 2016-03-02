@@ -10,6 +10,7 @@
         controller.verifyNewPassword = 'qwerty1';                
         //comentario merge github
         //segundo comentario
+        //segundo comentario
         System.assertEquals(controller.changePassword(),null);                           
     }    
 }

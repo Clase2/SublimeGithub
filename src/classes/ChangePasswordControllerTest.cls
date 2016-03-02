@@ -11,6 +11,8 @@
         //comentario merge github
         //segundo comentario
         //segundo comentario
+        //segundo comentario
+        //hola
         System.assertEquals(controller.changePassword(),null);                           
     }    
 }

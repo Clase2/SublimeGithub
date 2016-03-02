@@ -14,5 +14,6 @@ public with sharing class ChangePasswordController {
     // mas comentarios 
 
     // hola mundo
+    //Comentario merge
    	public ChangePasswordController() {}
 }

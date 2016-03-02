@@ -84,9 +84,9 @@
         "fileName": "unpackaged/classes/ChangePasswordController.cls", 
         "fullName": "ChangePasswordController", 
         "id": "01po000000316jKAAQ", 
-        "lastModifiedById": "005o00000012krtAAA", 
-        "lastModifiedByName": "Jos\u00e9 Esteban Heredia G\u00f3mez", 
-        "lastModifiedDate": "2016-03-02 09:56:48", 
+        "lastModifiedById": "005o0000002ZrzZAAS", 
+        "lastModifiedByName": "Angelita Munevar", 
+        "lastModifiedDate": "2016-03-02 10:57:07", 
         "mmState": "clean", 
         "type": "ApexClass"
     }, 

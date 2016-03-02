@@ -1,12 +1,12 @@
 {
-    "username": "josestebanhg@gmail.com", 
-    "environment": "production", 
-    "project_name": "Developer 02032016", 
-    "workspace": "C:\\Users\\USU-RTD\\Desktop\\ProyectosSublime", 
+    "username": "angypatypruebas@pruebas.com", 
+    "environment": "developer", 
+    "project_name": "SublimeGithub", 
+    "workspace": "C:\\ANGELA\\Codigo fuente\\Sublime", 
     "org_url": "", 
     "namespace": "", 
-    "id": "9BX1WNUU22FYZNFMV0SKKQ63BNCD0S1Q", 
-    "metadata_container": "1dco0000000FdanAAC", 
+    "id": "UTKRQOHDBEXIRHM894QPQDCQTALKUNDI", 
+    "metadata_container": "1dco0000000goWAAAY", 
     "subscription": [
         "ApexClass", 
         "ApexComponent", 
